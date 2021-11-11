@@ -3,6 +3,7 @@ This project is an assigment from MIT Open Courseware, Introduction to Computer 
 It is a Wordgame like scrabble, every letter has specific points, your goal is to get the highest score.
 
 When you open the game:
+
 1- Game is going to give an input --> Enter total number of hands: 
 You can simply select how many hands you want to play by writing the hand amount in number format. (1,2,3,4,5,6 etc.)
 After finishing your hand if you choosed more than one hand it will start the new round.
@@ -18,6 +19,8 @@ b. If you type no the game will continue with the same hand dealt.
 4- The game will ask for the player Enter word, or write '!!' to indicate that you are finished.
 
 5- After you finished, your total score will be printed and the game is going to ask if you want to replay the same hand --> you can type yes to replay the hand or no to continue.
+
+6- You will receive your endgame score at the end of the game.
 
 Here is a Game Example: 
 
