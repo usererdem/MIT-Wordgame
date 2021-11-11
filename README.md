@@ -1,14 +1,20 @@
 # MIT-Wordgame
-This project is an assigment from MIT Open Courseware, Introduction to Computer Science and Programming in Python class.
-It is a Wordgame like scrabble, every letter has specific points, your goal is to get the highest score.
+Hello, I made this project/game as an assignment to learn and understand the fundamentals of programming.
+I took the 'Introduction to Computer Science and Programming in Python' class from MIT Open Courseware. 
+This project/game is an assignment from that class.
+
+
+The Game Explanation: 
+
+It is a Word game like scrabble, every letter has specific points, your goal is to get the highest score.
 
 When you open the game:
 
 1- Game is going to give an input --> Enter total number of hands: 
 You can simply select how many hands you want to play by writing the hand amount in number format. (1,2,3,4,5,6 etc.)
-After finishing your hand if you choosed more than one hand it will start the new round.
+After finishing your hand if you chose more than one hand it will start the new round.
 
-2- The game will deal a hand of 7 letters including one unique letter that you can use it as any letter and print it for the player see.
+2- The game will deal with a hand of 7 letters including one unique letter that you can use as any letter and print for the player to see.
 Example: Current Hand: o u f f k b *
 Current Hand: o u f f k b * --> example word from the current hand --> bo*k which is going to accept book so unique letter is going to work as the letter o in this case.
 
@@ -16,7 +22,7 @@ Current Hand: o u f f k b * --> example word from the current hand --> bo*k whic
 a. If you type yes --> The game asks: Which letter would you like to replace: --> type the letter you want --> after you write, the specific letter is going to get replaced.
 b. If you type no the game will continue with the same hand dealt.
 
-4- The game will ask for the player Enter word, or write '!!' to indicate that you are finished.
+4- The game will ask for the player to Enter a word, or write '!!' to indicate that you are finished.
 
 5- After you finished, your total score will be printed and the game is going to ask if you want to replay the same hand --> you can type yes to replay the hand or no to continue.
 
