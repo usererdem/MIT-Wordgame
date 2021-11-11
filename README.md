@@ -1,8 +1,6 @@
 # MIT-Wordgame
 Hello, I made this project/game as an assignment to learn and understand the fundamentals of programming.
-
 I took the 'Introduction to Computer Science and Programming in Python' class from MIT Open Courseware. 
-
 This project/game is an assignment from that class.
 
 
